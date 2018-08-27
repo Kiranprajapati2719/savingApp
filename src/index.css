@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css?family=Quicksand:300");
+@import url("https://fonts.googleapis.com/css?family=Raleway:100");
+h1 {
+  font-family: "Raleway", Arial !important;
+  /* font-size: 4em !important; */
+  font-weight: lighter;
+}

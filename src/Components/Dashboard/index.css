@@ -1,0 +1,27 @@
+#svgContent{
+    display: inline-block;
+    position:relative;
+    top: 192px;
+    left: 0;
+    /* box-shadow: 0 0 4px rgba(0,0,0,0.25), 0 0 4px rgba(0,0,0,0.22); */
+}
+
+#svgContainer{
+    display: inline-block;
+    position: inherit;
+    width: 100%;
+    padding:0 ; 
+    vertical-align: middle;
+    z-index:1;
+}
+
+#shadow{
+    box-shadow: 0 2px 4px rgba(0,0,0,0.25), 0 4px 4px rgba(0,0,0,0.22);
+}
+
+#onTop{
+  z-index: 2;
+}
+ /* style={{display: inline-block,	position: inherit,	width: 100%, padding:0 , marginTop:0vh, verticalAlign: middle, zIndex:1}} */
+ /* style={{display: inline-block, position:inherit,	top: 0, left: 0}} */
+
